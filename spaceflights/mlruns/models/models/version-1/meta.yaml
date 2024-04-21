@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1713733843129
+current_stage: None
+description: null
+last_updated_timestamp: 1713733843129
+name: models
+run_id: null
+run_link: null
+source: data/06_models/regressor_candidate.pickle
+status: READY
+status_message: null
+storage_location: data/06_models/regressor_candidate.pickle
+user_id: null
+version: 1

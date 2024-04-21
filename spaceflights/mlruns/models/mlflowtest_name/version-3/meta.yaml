@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1713734776182
+current_stage: None
+description: null
+last_updated_timestamp: 1713734776182
+name: mlflowtest_name
+run_id: null
+run_link: null
+source: data/06_models/mlflowtest.pickle
+status: READY
+status_message: null
+storage_location: data/06_models/mlflowtest.pickle
+user_id: null
+version: 3

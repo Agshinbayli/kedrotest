@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/aasgarbayli/Desktop/Projects_demo/kedrotest/spaceflights/mlruns/143380628147005935/92e46bb319254697a1e7c12b507fcfa0/artifacts
+end_time: 1713729136993
+entry_point_name: ''
+experiment_id: '143380628147005935'
+lifecycle_stage: active
+run_id: 92e46bb319254697a1e7c12b507fcfa0
+run_name: __default__
+run_uuid: 92e46bb319254697a1e7c12b507fcfa0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713729111479
+status: 3
+tags: []
+user_id: aasgarbayli

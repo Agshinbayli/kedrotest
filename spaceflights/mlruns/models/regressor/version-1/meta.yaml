@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1713734812779
+current_stage: None
+description: null
+last_updated_timestamp: 1713734812779
+name: regressor
+run_id: 4a38633bcf1d46aca2320443010ca4ac
+run_link: null
+source: file:///C:/Users/aasgarbayli/Desktop/Projects_demo/kedrotest/spaceflights/mlruns/143380628147005935/4a38633bcf1d46aca2320443010ca4ac/artifacts/skmodel
+status: READY
+status_message: null
+storage_location: file:///C:/Users/aasgarbayli/Desktop/Projects_demo/kedrotest/spaceflights/mlruns/143380628147005935/4a38633bcf1d46aca2320443010ca4ac/artifacts/skmodel
+user_id: null
+version: 1

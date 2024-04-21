@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1713735024762
+current_stage: None
+description: ''
+last_updated_timestamp: 1713735024762
+name: testing
+run_id: 4a38633bcf1d46aca2320443010ca4ac
+run_link: ''
+source: models:/regressor/2
+status: READY
+status_message: null
+storage_location: file:///C:/Users/aasgarbayli/Desktop/Projects_demo/kedrotest/spaceflights/mlruns/143380628147005935/4a38633bcf1d46aca2320443010ca4ac/artifacts/skmodel
+user_id: null
+version: 1
